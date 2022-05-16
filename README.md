@@ -1,6 +1,6 @@
 # Welcome 😃
 
-Here's a little sample project to test your troubleshooting skills.
+Here's a little sample project to test your problem solving skills.
 
 - [Welcome 😃](#welcome-)
 - [Overview](#overview)
